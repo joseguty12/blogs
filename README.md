@@ -1,2 +1,2 @@
-# blogs
-Un blog dinámico de un curso de Platzi
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
